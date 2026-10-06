@@ -25,8 +25,8 @@ Mammalian expression introduces ER translocation, calnexin/calreticulin cycling,
 Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
 Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
 
-1.1) Not well-written. A lot of relevant and specific nomenclature but not written in a legible/understable way. Considering it it supposed to be the start of a scientific paper, I am not given any context or purpose of the reserch or paper and instead given a specific, specialist-lens overview of a area of knowledge and biology. 
-1.2) Give me context of paper, purpose, inspiration, goal, step by step process or plan of action. 
+1.1) Not well-written. A lot of what I'm sure is topic-relevant and specific nomenclature but not written in a legible/understable way for anyone not informed or also a specialist in the field. Considering it it supposed to be the start of a scientific paper, I am not given any context or purpose of the reserch or paper and instead given a specific, specialist-lens overview of a area of knowledge and biology. 
+1.2) Give me context of paper, purpose, inspiration, goal, step by step process or plan of action, with going from broad ideas and reasons to specific, knowledge-backed terms and processes to relate the small to the bigger idea. 
 
 ## Writing sample 2
 
