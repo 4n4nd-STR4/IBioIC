@@ -25,6 +25,8 @@ Mammalian expression introduces ER translocation, calnexin/calreticulin cycling,
 Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
 Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
 
+1.1) Not well-written. A lot of relevant and specific nomenclature but not written in a legible/understable way. Considering it it supposed to be the start of a scientific paper, I am not given any context or purpose of the reserch or paper and instead given a specific, specialist-lens overview of a area of knowledge and biology. 
+1.2) Give me context of paper, purpose, inspiration, goal, step by step process or plan of action. 
 
 ## Writing sample 2
 
@@ -40,6 +42,8 @@ It is therefore important to take a holistic approach when considering the diffe
 By doing so, it is possible to optimise the production process while also ensuring that the resulting product is aligned with the requirements of its intended application, including any relevant consideration of regulatory, legal, or other considerations associated with the intended product or application. 
 Consideration of the different approaches available can therefore play an important role in enabling informed decision-making by the discerning industrial biotechnologist, allowing them to identify the most suitable strategy for achieving the desired production outcomes across a range of different applications and production contexts.
 
+2.1) Decent. Starts off big and gets more specific throughout the introductory paragraphs. Though goes on and doesn't narrow down the step by step relevance, related info, purpose and goal of paper/study. 
+2.2) Narrow it down even more, or faster. Feels like rambling about the starting points or processes of biotechnology. Why fermentation is important to a specific idea or goal. 
 
 ## Writing sample 3
 
@@ -51,5 +55,8 @@ However, ensuring that the product is produced and purified in its active form r
 Some products (e.g., insulin, monoclonal antibodies) require disulfide bond formation to achieve their correctly folded, active form. 
 Others (e.g., monoclonal antibodies, erythropoietin) must be correctly glycosylated. 
 Therefore, selection of an expression host system that is able to produce a given product with the post-translational modifications necessary for that product's activity is essential. 
+
+3.1) Well written, goes from big to small. 
+3.2) Not sure of relevant info of overall paper, but maybe be more specific in the final line(s), but overall goes from big to concise and distinct importance of a specific concept/method/area of biotechnolgy quickly and concisely. 
 
 
